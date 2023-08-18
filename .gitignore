@@ -1,0 +1,12 @@
+
+
+# Files
+*.o
+.DS_Store
+exec
+*.so
+
+# Folders
+objs
+.vscode
+lib
